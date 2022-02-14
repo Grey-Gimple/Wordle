@@ -1,1 +1,1 @@
-bodged together script to play wordle, can be made far better
+bodged together script to play wordle, can be made far better# Wordle
